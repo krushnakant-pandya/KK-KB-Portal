@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Portal.APIs/Portal.APIs.csproj" />
+  <Project Path="Portal.Shared/Portal.Shared.csproj" />
+</Solution>
