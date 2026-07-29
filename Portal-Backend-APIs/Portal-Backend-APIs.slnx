@@ -1,4 +1,8 @@
 <Solution>
   <Project Path="Portal.APIs/Portal.APIs.csproj" />
+  <Project Path="Portal.Contracts/Portal.Contracts.csproj" Id="4a949ef3-754e-4640-8f01-b9c32ab78ec5" />
+  <Project Path="Portal.Domain/Portal.Domain.csproj" Id="ff400bf4-dcca-4297-97d9-c6cbf79e8cbb" />
+  <Project Path="Portal.GenOperation/Portal.GenOperation.csproj" Id="5be392f9-1a45-484f-8ee0-5f16b2c175fb" />
+  <Project Path="Portal.Infrastructure/Portal.Infrastructure.csproj" Id="76651922-7a29-49ac-9390-f1f7ec36b4d3" />
   <Project Path="Portal.Shared/Portal.Shared.csproj" />
 </Solution>

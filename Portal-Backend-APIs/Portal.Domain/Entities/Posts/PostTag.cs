@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Portal.Domain.Entities.Posts
+{
+    public sealed class PostTag
+    {
+        public int PostId { get; set; }
+        public int TagId { get; set; }
+    }
+}

@@ -1,0 +1,13 @@
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\obj\Debug\net10.0\Portal.GenOperation.csproj.AssemblyReference.cache
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\obj\Debug\net10.0\Portal.GenOperation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\obj\Debug\net10.0\Portal.GenOperation.AssemblyInfoInputs.cache
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\obj\Debug\net10.0\Portal.GenOperation.AssemblyInfo.cs
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\obj\Debug\net10.0\Portal.GenOperation.csproj.CoreCompileInputs.cache
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\obj\Debug\net10.0\Portal.GenOperation.sourcelink.json
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\bin\Debug\net10.0\Portal.GenOperation.deps.json
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\bin\Debug\net10.0\Portal.GenOperation.dll
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\bin\Debug\net10.0\Portal.GenOperation.pdb
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\obj\Debug\net10.0\Portal.GenOperation.dll
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\obj\Debug\net10.0\refint\Portal.GenOperation.dll
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\obj\Debug\net10.0\Portal.GenOperation.pdb
+F:\Git-Hub-Repositories\KK-KB-Portal\Portal-Backend-APIs\Portal.GenOperation\obj\Debug\net10.0\ref\Portal.GenOperation.dll

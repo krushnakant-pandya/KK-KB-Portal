@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "BOPiu6DXJYQ=",
+  "success": true,
+  "projectFilePath": "F:\\Git-Hub-Repositories\\KK-KB-Portal\\Portal-Backend-APIs\\Portal.GenOperation\\Portal.GenOperation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krush\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\mailkit\\4.17.0\\mailkit.4.17.0.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.10\\microsoft.extensions.dependencyinjection.abstractions.10.0.10.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.10\\microsoft.extensions.logging.abstractions.10.0.10.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\microsoft.extensions.options\\10.0.10\\microsoft.extensions.options.10.0.10.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.10\\microsoft.extensions.primitives.10.0.10.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.21.0\\microsoft.identitymodel.abstractions.8.21.0.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.21.0\\microsoft.identitymodel.jsonwebtokens.8.21.0.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\microsoft.identitymodel.logging\\8.21.0\\microsoft.identitymodel.logging.8.21.0.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.21.0\\microsoft.identitymodel.tokens.8.21.0.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\mimekit\\4.17.0\\mimekit.4.17.0.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\polly\\8.7.0\\polly.8.7.0.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\polly.core\\8.7.0\\polly.core.8.7.0.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.21.0\\system.identitymodel.tokens.jwt.8.21.0.nupkg.sha512",
+    "C:\\Users\\Krush\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.0\\system.security.cryptography.pkcs.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

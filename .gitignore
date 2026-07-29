@@ -7,3 +7,5 @@
 /Portal-Backend-APIs/Portal.Shared/bin/Debug/net10.0
 /Portal-Backend-APIs/Portal.Domain/obj
 /Portal-Backend-APIs/Portal.Infrastructure/obj
+/Portal-Backend-APIs/Portal.Contracts/bin/Debug/net10.0
+/Portal-Backend-APIs/Portal.Contracts/obj
